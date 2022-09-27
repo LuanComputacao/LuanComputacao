@@ -52,7 +52,7 @@
                 alt="luancomputacao" height="30" width="40" /></a>
     </p>
     <h3 align="left">Languages and Tools:</h3>
-    <p align="left" style="background-color: #44475a; border-radius: 3px; padding: 15px;">
+    <p align="left" style="background-color: #44475a; border-radius: 3px; padding: 15px;" color="#44475a">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
                 alt="aws" width="40" height="40" /> </a>
