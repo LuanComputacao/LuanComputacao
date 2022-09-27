@@ -153,40 +153,22 @@
             alt="vuepress" width="40" height="40" /> </a> <a href="https://vuetifyjs.com/en/" target="_blank"
         rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /> </a>
 </p>
+
+
 <h3 align="left">Support:</h3>
-<table style="width: 100%; border: 0;" border="0">
-    <tbody>
-        <tr width="100%">
-            <td width="50%" style="text-align:center;">
-                <a href="https://www.buymeacoffee.com/luancomputacao"> <img align="center"
-                        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-                        alt="luancomputacao" /></a>
-            </td>
-            <td width="50%" style="text-align:center;">
-                <a href="https://ko-fi.com/luancomputacao">
-                    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"
-                        alt="luancomputacao" />
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align:center;">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/top-langs?username=luancomputacao&show_icons=true&locale=en&layout=compact"
-                    alt="luancomputacao" />
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align:center;">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api?username=luancomputacao&show_icons=true&locale=en"
-                    alt="luancomputacao" />
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align:center;">
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luancomputacao&"
-                    alt="luancomputacao" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/luancomputacao"> <img align="center"
+            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+            alt="luancomputacao" /></a>
+    
+    <a href="https://ko-fi.com/luancomputacao">
+        <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="luancomputacao" />
+    </a>
+</p>
+<br><br>
+<hr>
+<br><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luancomputacao&show_icons=true&locale=en&layout=compact" alt="luancomputacao" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=luancomputacao&show_icons=true&locale=en" alt="luancomputacao" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luancomputacao&" alt="luancomputacao" /></p>
