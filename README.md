@@ -13,13 +13,10 @@
     books, playing string musical instruments, learning exciting things, and keeping in contact with nature.
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=luancomputacao&column=3" alt="luancomputacao" /></a>
+</p>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=luancomputacao&label=Profile%20views&color=0e75b6&style=flat"
-        alt="luancomputacao" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=luancomputacao" alt="luancomputacao" /></a> </p>
 
 - 🔭 I’m currently working on **Development Tech Lead**
 
@@ -174,3 +171,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luancomputacao&show_icons=true&locale=en&layout=compact" alt="luancomputacao" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=luancomputacao&show_icons=true&locale=en" alt="luancomputacao" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luancomputacao&" alt="luancomputacao" /></p>
+
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=luancomputacao&label=Profile%20views&color=0e75b6&style=flat"
+        alt="luancomputacao" /> </p>
