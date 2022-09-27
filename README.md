@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm LuanComputacao (Luan R. S. Santana)</h1>
 <h3 align="center">Computer Engineer Bachelor since 12/2012 </h3>
-<p> going to complete the Software Engineering Specialist
-    degree at 08/2019 and starting the Specialization in Applied Artificial Intelligence. Since 2013, I have
-    collaborated on many software developments for web platforms. The first company that I worked after to obtain the
-    Comp. Eng. Bachelor's degree was in the LojasKD e-commerce of the B2W group, in 2014, as a Software Developer. I
-    increased my knowledge of web software, frameworks, integrations, etc. And since then, I have always worked to
-    improve these skills further. Another activity that I like is teaching what I know to other people. I taught some
-    subjects in a technical Computer Course in Paraná in 2013 and 2015. In addition, I have invested time in learning
-    and enhancing my soft skills to lead with people and teams. So, I know the agile methods, and I learned about them
-    in my Software Engineer Specialization degree. About myself, beyond the titles, in the last MBTI assessment that I
-    made, I had the result that I am an ENTP kind. My hobbies are reading books, playing string musical instruments,
-    learning exciting things, and keeping in contact with nature.
-    </p>
+<p>
+    Going to complete the Software Engineering Specialist degree at 08/2019 and starting the Specialization in Applied
+    Artificial Intelligence. Since 2013, I have collaborated on many software developments for web platforms. The first
+    company that I worked after to obtain the Comp. Eng. Bachelor's degree was in the LojasKD e-commerce of the B2W
+    group, in 2014, as a Software Developer. I increased my knowledge of web software, frameworks, integrations, etc.
+    And since then, I have always worked to improve these skills further. Another activity that I like is teaching what
+    I know to other people. I taught some subjects in a technical Computer Course in Paraná in 2013 and 2015. In
+    addition, I have invested time in learning and enhancing my soft skills to lead with people and teams. So, I know
+    the agile methods, and I learned about them in my Software Engineer Specialization degree. About myself, beyond the
+    titles, in the last MBTI assessment that I made, I had the result that I am an ENTP kind. My hobbies are reading
+    books, playing string musical instruments, learning exciting things, and keeping in contact with nature.
+</p>
+
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=luancomputacao&label=Profile%20views&color=0e75b6&style=flat"
