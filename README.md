@@ -30,12 +30,12 @@
 - 👯 I’m looking to collaborate on **Applied Artificial Intelligence projects**
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/LuanComputacao?tab=repositories](https://github.com/LuanComputacao?tab=repositories)
+[GitHub Repositories](https://github.com/LuanComputacao?tab=repositories)
 
 - 💬 Ask me about **Python, Flask, FastAPI, Laravel, Algorithms**
 
 - 📄 Know about my experiences
-[https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing](https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing)
+[Resume - Google Docs](https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing)
 
 - ⚡ Fun fact **I really like horses. They smells very good!**
 
