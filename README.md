@@ -23,21 +23,21 @@
                 alt="luancomputacao" /></a>
     </p>
 
-    - 🔭 I’m currently working on **Development Tech Lead**
+- 🔭 I’m currently working on **Development Tech Lead**
 
-    - 🌱 I’m currently learning **Applied Artificial Intelligence**
+- 🌱 I’m currently learning **Applied Artificial Intelligence**
 
-    - 👯 I’m looking to collaborate on **Applied Artificial Intelligence projects**
+- 👯 I’m looking to collaborate on **Applied Artificial Intelligence projects**
 
-    - 👨‍💻 All of my projects are available at
-    [https://github.com/LuanComputacao?tab=repositories](https://github.com/LuanComputacao?tab=repositories)
+- 👨‍💻 All of my projects are available at
+[https://github.com/LuanComputacao?tab=repositories](https://github.com/LuanComputacao?tab=repositories)
 
-    - 💬 Ask me about **Python, Flask, FastAPI, Laravel, Algorithms**
+- 💬 Ask me about **Python, Flask, FastAPI, Laravel, Algorithms**
 
-    - 📄 Know about my experiences
-    [https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing](https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing)
+- 📄 Know about my experiences
+[https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing](https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing)
 
-    - ⚡ Fun fact **I really like horses. They smells very good!**
+- ⚡ Fun fact **I really like horses. They smells very good!**
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -225,5 +225,4 @@
     <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=luancomputacao&label=Profile%20views&color=0e75b6&style=flat"
             alt="luancomputacao" /> </p>
-
 </div>
