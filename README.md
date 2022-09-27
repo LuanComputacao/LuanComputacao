@@ -1,8 +1,7 @@
 <div style="background-color: #44475a; margin: 0; padding: 10px;">
     <h1 align="center">Hi 👋, I'm LuanComputacao (Luan R. S. Santana)</h1>
     <h3 align="center">Computer Engineer Bachelor since 12/2012 </h3>
-    <p>
-        Going to complete the Software Engineering Specialist degree at 08/2019 and starting the Specialization in
+    <p> Going to complete the Software Engineering Specialist degree at 08/2019 and starting the Specialization in
         Applied
         Artificial Intelligence. Since 2013, I have collaborated on many software developments for web platforms. The
         first
@@ -19,7 +18,6 @@
         titles, in the last MBTI assessment that I made, I had the result that I am an ENTP kind. My hobbies are reading
         books, playing string musical instruments, learning exciting things, and keeping in contact with nature.
     </p>
-
     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://github-profile-trophy.vercel.app/?username=luancomputacao&column=3"
                 alt="luancomputacao" /></a>
@@ -41,7 +39,7 @@
 
     - ⚡ Fun fact **I really like horses. They smells very good!**
 
-    <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://twitter.com/luancomputacao" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -53,7 +51,6 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="luancomputacao" height="30" width="40" /></a>
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left" style="background-color: #44475a; border-radius: 3px; padding: 15px;">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
@@ -92,7 +89,6 @@
         <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
         </a>
-
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                 alt="html5" width="40" height="40" /> </a>
@@ -135,7 +131,6 @@
         <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
         </a>
-
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
                 alt="pandas" width="40" height="40" /> </a>
@@ -176,7 +171,6 @@
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
                 src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
         </a>
-
         <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
                 alt="selenium" width="40" height="40" /> </a>
@@ -187,7 +181,6 @@
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
         </a>
-
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
                 height="40" /> </a>
@@ -208,13 +201,11 @@
                 src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /> </a>
     </p>
 
-    <h3 align="left">Support:</h3>
-
+<h3 align="left">Support:</h3>
     <p align="center">
         <a href="https://www.buymeacoffee.com/luancomputacao"> <img align="center"
                 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
                 alt="luancomputacao" /></a>
-
         <a href="https://ko-fi.com/luancomputacao">
             <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210"
                 alt="luancomputacao" />
@@ -231,7 +222,6 @@
             alt="luancomputacao" /></p>
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luancomputacao&"
             alt="luancomputacao" /></p>
-
     <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=luancomputacao&label=Profile%20views&color=0e75b6&style=flat"
             alt="luancomputacao" /> </p>
