@@ -18,10 +18,18 @@
         titles, in the last MBTI assessment that I made, I had the result that I am an ENTP kind. My hobbies are reading
         books, playing string musical instruments, learning exciting things, and keeping in contact with nature.
     </p>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    <p align="center"></p>
+    
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img 
                 src="https://github-profile-trophy.vercel.app/?username=luancomputacao&column=3"
                 alt="luancomputacao" /></a>
-    </p>
+<a href="https://app.daily.dev/LuanComputacao"><img
+            src="https://api.daily.dev/devcards/b78ae4d0c8ff4fc99a9f267576dc0031.png?r=k85" width="200" alt="LuanComputacao's Dev Card"/>
+    </a>
+    <i style="clear: both;display: block;"></i>
+</p>
+
 
 - 🔭 I’m currently working on **Development Tech Lead**
 
