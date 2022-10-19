@@ -1,6 +1,9 @@
+
 <div style="background-color: #44475a; margin: 0; padding: 10px;">
     <h1 align="center">Hi 👋, I'm LuanComputacao (Luan R. S. Santana)</h1>
     <h3 align="center">Computer Engineer Bachelor since 12/2012 </h3>
+    <h3 align="center">
+    <a href="https://wakatime.com/@58d0c8ba-5a6c-439d-89c1-1598bbe0a3f1"><img src="https://wakatime.com/badge/user/58d0c8ba-5a6c-439d-89c1-1598bbe0a3f1.svg?style=for-the-badge" alt="Total time coded since Sep 2 2014" /></a></h3>
     <p> Going to complete the Software Engineering Specialist degree at 08/2019 and starting the Specialization in
         Applied
         Artificial Intelligence. Since 2013, I have collaborated on many software developments for web platforms. The
