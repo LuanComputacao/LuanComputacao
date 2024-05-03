@@ -1,11 +1,19 @@
-<img align="center" alt="banner" src="./img_1.webp"/>
 
-<div style="background-color: #44475a; margin: 0; padding: 10px;">
-    <h1 align="center">Hi 👋, I'm LuanComputacao (Luan R. S. Santana)</h1>
+<img align="center" alt="banner" width="100%" src="./img_1.webp"/>
+<div style="margin: 0; padding-top:10px; padding-left:0; padding-right: 0;">
+<p align="center" >
+<font size="4"> Hi 👋, I'm </font><br>
+<font size="10">LuanComputacao </font><br>
+<font size="2">(Luan R. S. Santana)</font></p>
+
+<img align="center" alt="bar" width="100%" src="./bar.webp"/>
     <h3 align="center">Computer Engineer Bachelor since 12/2012 </h3>
     
    
 I'm a seasoned **Computer Engineer and Software Engineering Specialist** with over 10 years of experience in software development, specializing in Python, PHP, JavaScript, and AWS. Welcome to my GitHub!
+</div>
+<img align="center" alt="bar" width="100%" src="./bar.webp"/>
+<div style="margin: 0; padding: 10px;">
 
 ## 🚀 About Me
 - 🔭 I’m currently working as a **Software Engineer** at Maquineta Virtual, an electronic payment platform.
@@ -20,13 +28,15 @@ I'm a seasoned **Computer Engineer and Software Engineering Specialist** with ov
 - **Other**: AWS (EC2, EBS, S3, Lambda, Route53), Pandas, RabbitMQ, MQTT, WebSocket, GitHub, Linux, Docker.
 
 ## 🛠 Projects Highlight
-- **Maquineta Virtual**: Designed and built a BI dashboard and managed CI/CD pipelines. Created production and development Docker containers.
-- **FAST2Mine**: Developed a multitenant application, refactored software to distribute processing load, and designed solutions to reduce IoT data traffic by 70%.
-- **PureSpectrum**: Provided technical consulting. Maintained systems using a variety of technologies
-- **MAD**: Built an email marketing framework. Maintained systems using a variety of technologies.
-- **Kenzie Academy (Brazil)**: Developed applications to automate the evaluation of student assignments and manage student data.
-- **VHSYS**: Refactored and modularized an ERP system, implemented microservices, and migrated to AWS with enhanced security features.
-- **CrossKnowledge**: Built systems using Python/Django and developed SPAs with VueJS and React. Created a component library following Atomic Design principles.
+- **JOISS - Maquineta Virtual [10-23 - current]**: Designed and built a BI dashboard and managed CI/CD pipelines. Created production and development Docker containers.
+- **JOISS - Ibac [10/22 - 10/23]**: KIOSK system for administering DMV driving tests, using Linux, NodeJs (Electron), BashScript, MySQL, Python, PHP, Gnome, and AI for speech-to-text conversion.
+Senior Software Engineer. FAST2Mine.
+- **FAST2Mine [10/22 - 6/23]**: Developed a multitenant application, refactored software to distribute processing load, and designed solutions to reduce IoT data traffic by 70%.
+- **PureSpectrum [1/22 – 7/22]**: Provided technical consulting. Maintained systems using a variety of technologies
+- **MAD [1/21 – 2/22]**: Built an email marketing framework. Maintained systems using a variety of technologies.
+- **Kenzie Academy (Brazil) [5/20 - 3/21]**: Developed applications to automate the evaluation of student assignments and manage student data.
+- **VHSYS [7/19 - 3/20]**: Refactored and modularized an ERP system, implemented microservices, and migrated to AWS with enhanced security features.
+- **CrossKnowledge [9/16 - 7/19]**: Built systems using Python/Django and developed SPAs with VueJS and React. Created a component library following Atomic Design principles.
 
 ## 🌱 Leadership and Collaboration
 I am committed to nurturing a collaborative environment and have a strong background in mentoring teams and teaching technical courses. This experience has not only honed my technical skills but has also strengthened my leadership and project management abilities.
@@ -52,7 +62,11 @@ I am committed to nurturing a collaborative environment and have a strong backgr
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="luancomputacao" height="30" width="40" /></a>
     </p>
+
+<img align="center" alt="bar" width="100%" src="./bar.webp"/>
     <h3 align="left">Languages and Tools:</h3>
+
+    
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
@@ -114,7 +128,7 @@ I am committed to nurturing a collaborative environment and have a strong backgr
     </a>
     <i style="clear: both;display: block;"></i>
 </p>
-
+<img align="center" alt="bar" width="100%" src="./bar.webp"/>
 
 <h3 align="left">Support:</h3>
     <p align="center">
