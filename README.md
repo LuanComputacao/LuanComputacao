@@ -1,3 +1,4 @@
+<img align="center" alt="banner" src="./img_1.webp"/>
 
 <div style="background-color: #44475a; margin: 0; padding: 10px;">
     <h1 align="center">Hi 👋, I'm LuanComputacao (Luan R. S. Santana)</h1>
@@ -128,3 +129,4 @@ I am committed to nurturing a collaborative environment and have a strong backgr
     </p>
 
 </div>
+<img align="center" alt="banner" src="./img_2.webp"/>
