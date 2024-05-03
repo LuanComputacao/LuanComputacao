@@ -41,10 +41,6 @@ Senior Software Engineer. FAST2Mine.
 ## 🌱 Leadership and Collaboration
 I am committed to nurturing a collaborative environment and have a strong background in mentoring teams and teaching technical courses. This experience has not only honed my technical skills but has also strengthened my leadership and project management abilities.
 
-## 📫 Connect With Me
-- **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/luancomputacao)
-- **Stack Overflow**: [My developer story](http://careers.stackoverflow.com/luancomputacao)
-
 ## 🔗 More About Me
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/LuanComputacao?tab=repositories)
 - 💬 Ask me about **Python, PHP, JavaScript, ShellScript**.
