@@ -14,7 +14,7 @@ I'm a seasoned **Computer Engineer and Software Engineering Specialist** with ov
 - 😊 I am known for my **analytical and inventive approach**, traits underscored by my **ENTP personality type**. I engage in hobbies that complement my professional life, such as reading technical literature, mastering string instruments, and immersing myself in the natural world.
 
 ## 💻 Technical Skills
-- **Languages**: Python, PHP, JavaScript, Java, HTML/CSS.
+- **Languages**: Python, PHP, JavaScript, TypeScript, Java, HTML/CSS, ShellScript, SCSS, R.
 - **Frameworks**: Flask, Django, FastAPI, ReactJS, NextJS, NuxtJS, VueJS, jQuery, NodeJS, Laravel, AngularJS, Grails.
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis, SQL Server.
 - **Other**: AWS (EC2, EBS, S3, Lambda, Route53), Pandas, RabbitMQ, MQTT, WebSocket, GitHub, Linux, Docker.
