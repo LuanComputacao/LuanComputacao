@@ -2,53 +2,45 @@
 <div style="background-color: #44475a; margin: 0; padding: 10px;">
     <h1 align="center">Hi 👋, I'm LuanComputacao (Luan R. S. Santana)</h1>
     <h3 align="center">Computer Engineer Bachelor since 12/2012 </h3>
-    <h3 align="center">
-    <a href="https://wakatime.com/@58d0c8ba-5a6c-439d-89c1-1598bbe0a3f1"><img src="https://wakatime.com/badge/user/58d0c8ba-5a6c-439d-89c1-1598bbe0a3f1.svg?style=for-the-badge" alt="Total time coded since Sep 2 2014" /></a></h3>
-    <p> Going to complete the Software Engineering Specialist degree at 08/2019 and starting the Specialization in
-        Applied
-        Artificial Intelligence. Since 2013, I have collaborated on many software developments for web platforms. The
-        first
-        company that I worked after to obtain the Comp. Eng. Bachelor's degree was in the LojasKD e-commerce of the B2W
-        group, in 2014, as a Software Developer. I increased my knowledge of web software, frameworks, integrations,
-        etc.
-        And since then, I have always worked to improve these skills further. Another activity that I like is teaching
-        what
-        I know to other people. I taught some subjects in a technical Computer Course in Paraná in 2013 and 2015. In
-        addition, I have invested time in learning and enhancing my soft skills to lead with people and teams. So, I
-        know
-        the agile methods, and I learned about them in my Software Engineer Specialization degree. About myself, beyond
-        the
-        titles, in the last MBTI assessment that I made, I had the result that I am an ENTP kind. My hobbies are reading
-        books, playing string musical instruments, learning exciting things, and keeping in contact with nature.
-    </p>
-    <p align="center"></p>
     
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img 
-                src="https://github-profile-trophy.vercel.app/?username=luancomputacao&column=3"
-                alt="luancomputacao" /></a>
-<a href="https://app.daily.dev/LuanComputacao"><img
-            src="https://api.daily.dev/devcards/b78ae4d0c8ff4fc99a9f267576dc0031.png?r=k85" width="200" alt="LuanComputacao's Dev Card"/>
-    </a>
-    <i style="clear: both;display: block;"></i>
-</p>
+   
+I'm a seasoned **Computer Engineer and Software Engineering Specialist** with over 10 years of experience in software development, specializing in Python, PHP, JavaScript, and AWS. Welcome to my GitHub!
+
+## 🚀 About Me
+- 🔭 I’m currently working as a **Software Engineer** at Maquineta Virtual, an electronic payment platform.
+- 🌱 I’m pursuing a Specialist degree in **Applied Artificial Intelligence**.
+- 👯 I’m looking to collaborate on **Software Engineering and Applied Artificial Intelligence projects**.
+- 😊 I am known for my **analytical and inventive approach**, traits underscored by my **ENTP personality type**. I engage in hobbies that complement my professional life, such as reading technical literature, mastering string instruments, and immersing myself in the natural world.
+
+## 💻 Technical Skills
+- **Languages**: Python, PHP, JavaScript, Java, HTML/CSS.
+- **Frameworks**: Flask, Django, FastAPI, ReactJS, NextJS, NuxtJS, VueJS, jQuery, NodeJS, Laravel, AngularJS, Grails.
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, SQL Server.
+- **Other**: AWS (EC2, EBS, S3, Lambda, Route53), Pandas, RabbitMQ, MQTT, WebSocket, GitHub, Linux, Docker.
+
+## 🛠 Projects Highlight
+- **Maquineta Virtual**: Designed and built a BI dashboard and managed CI/CD pipelines. Created production and development Docker containers.
+- **FAST2Mine**: Developed a multitenant application, refactored software to distribute processing load, and designed solutions to reduce IoT data traffic by 70%.
+- **PureSpectrum**: Provided technical consulting. Maintained systems using a variety of technologies
+- **MAD**: Built an email marketing framework. Maintained systems using a variety of technologies.
+- **Kenzie Academy (Brazil)**: Developed applications to automate the evaluation of student assignments and manage student data.
+- **VHSYS**: Refactored and modularized an ERP system, implemented microservices, and migrated to AWS with enhanced security features.
+- **CrossKnowledge**: Built systems using Python/Django and developed SPAs with VueJS and React. Created a component library following Atomic Design principles.
+
+## 🌱 Leadership and Collaboration
+I am committed to nurturing a collaborative environment and have a strong background in mentoring teams and teaching technical courses. This experience has not only honed my technical skills but has also strengthened my leadership and project management abilities.
+
+## 📫 Connect With Me
+- **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/luancomputacao)
+- **Stack Overflow**: [My developer story](http://careers.stackoverflow.com/luancomputacao)
+
+## 🔗 More About Me
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/LuanComputacao?tab=repositories)
+- 💬 Ask me about **Python, PHP, JavaScript, ShellScript**.
+- 📄 Know about my experiences [Resume - Google Docs](https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing)
+- ⚡ Fun fact: I like horses. They smell outstanding!
 
 
-- 🔭 I’m currently working on **Development Tech Lead**
-
-- 🌱 I’m currently learning **Applied Artificial Intelligence**
-
-- 👯 I’m looking to collaborate on **Applied Artificial Intelligence projects**
-
-- 👨‍💻 All of my projects are available at
-[GitHub Repositories](https://github.com/LuanComputacao?tab=repositories)
-
-- 💬 Ask me about **Python, Flask, FastAPI, Laravel, Algorithms**
-
-- 📄 Know about my experiences
-[Resume - Google Docs](https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing)
-
-- ⚡ Fun fact **I really like horses. They smells very good!**
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -112,6 +104,18 @@
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img 
+                src="https://github-profile-trophy.vercel.app/?username=luancomputacao&column=3"
+                alt="luancomputacao" /></a>
+<br><br>
+<a href="https://app.daily.dev/LuanComputacao"><img
+            src="https://api.daily.dev/devcards/b78ae4d0c8ff4fc99a9f267576dc0031.png?r=k85" width="200" alt="LuanComputacao's Dev Card"/>
+    </a>
+    <i style="clear: both;display: block;"></i>
+</p>
+
+
 <h3 align="left">Support:</h3>
     <p align="center">
         <a href="https://www.buymeacoffee.com/luancomputacao"> <img align="center"
@@ -122,18 +126,5 @@
                 alt="luancomputacao" />
         </a>
     </p>
-    <br><br>
-    <hr>
-    <br><br>
-    <p align="center"><img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=luancomputacao&show_icons=true&locale=en&layout=compact"
-            alt="luancomputacao" /></p>
-    <p align="center"><img
-            src="https://github-readme-stats.vercel.app/api?username=luancomputacao&show_icons=true&locale=en"
-            alt="luancomputacao" /></p>
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luancomputacao&"
-            alt="luancomputacao" /></p>
-    <p align="left"> <img
-            src="https://komarev.com/ghpvc/?username=luancomputacao&label=Profile%20views&color=0e75b6&style=flat"
-            alt="luancomputacao" /> </p>
+
 </div>
