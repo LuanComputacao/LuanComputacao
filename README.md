@@ -1,13 +1,13 @@
 
 <img align="center" alt="banner" width="100%" src="./img_1.webp"/>
 <div style="margin: 0; padding-top:10px; padding-left:0; padding-right: 0;">
-<p align="center" ><font size="4"> Hi 👋, I'm </font></p>
-<p align="center" style="font-size: 2em; font-">LuanComputacao</p>
-<p align="center" ><font size="2">(Anonymous)</font></p>
+<p align="center">Hi 👋, I'm</p>
+<h1 align="center">LuanComputacao</h1>
+<p align="center">(Anonymous)</font></p>
 
 
-<img align="center" alt="bar" width="100%" src="./bar.webp"/>
-    <h3 align="center">Computer Engineer Bachelor since 12/2012 </h3>
+
+<h3 align="center">Computer Engineer Bachelor since 12/2012 </h3>
     
    
 I'm a seasoned **Computer Engineer and Software Engineering Specialist** with over 10 years of experience in software development, specializing in Python, PHP, JavaScript, and AWS. Welcome to my GitHub!
