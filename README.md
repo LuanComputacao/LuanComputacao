@@ -42,9 +42,9 @@ Senior Software Engineer. FAST2Mine.
 I am committed to nurturing a collaborative environment and have a strong background in mentoring teams and teaching technical courses. This experience has not only honed my technical skills but has also strengthened my leadership and project management abilities.
 
 ## 🔗 More About Me
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/LuanComputacao?tab=repositories)
-- 💬 Ask me about **Python, PHP, JavaScript, ShellScript**.
 - 📄 Know about my experiences [Resume - Google Docs](https://docs.google.com/document/d/1NjEkNRT7Vu6ipJLgOXIDuyR0ziXbDzGLyXq2bGbbnl0/edit?usp=sharing)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/LuanComputacao?tab=repositories)
+- 💬 Ask me about **Software Engineering, AI, Python, PHP, JavaScript, TypeScript, ShellScript**.
 - ⚡ Fun fact: I like horses. They smell outstanding!
 
 
