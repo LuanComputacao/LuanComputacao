@@ -3,7 +3,7 @@
 <div style="margin: 0; padding-top:10px; padding-left:0; padding-right: 0;">
 <p align="center">Hi 👋, I'm</p>
 <h1 align="center">LuanComputacao</h1>
-<p align="center">(Luan R. S. Santana)</font></p>
+<p align="center">(Luan)</font></p>
 
 
 
